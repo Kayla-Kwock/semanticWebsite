@@ -1,0 +1,32 @@
+body{
+  background: #494f5c !important;
+}
+
+.navbar{
+  background: #494f5c !important;
+  border: 2px black !important;
+}
+
+.text {
+  color: #d8d8da !important;
+  font-size: 17px !important;
+  font-family: Oswald, sans-serif;
+}
+
+.twoimage{
+  height: 300px;
+  width: 500px;
+
+  }
+.info {
+  background-color: #282c34 !important;
+  color: white !important;
+}
+.sale{
+  background-color: white !important;
+  color: black !important;
+}
+
+.double-line{
+  font-size:16px;
+}
